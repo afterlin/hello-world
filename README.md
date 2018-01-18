@@ -9,6 +9,6 @@ now to test "git fetch"  should it run outside of hello-world in local?
 ### this is a tertiary heading
 atucally, "git fetch" just fetch the info without Merge
 
-* first item in list
-java
-python
+* first item in list: python
+* second item in list: java
+

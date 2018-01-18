@@ -11,4 +11,5 @@ atucally, "git fetch" just fetch the info without Merge
 
 * first item in list: python
 * second item in list: java
+* SQL
 

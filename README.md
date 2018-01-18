@@ -8,3 +8,7 @@ it did work with simple "git pull" command
 now to test "git fetch"  should it run outside of hello-world in local?
 ### this is a tertiary heading
 atucally, "git fetch" just fetch the info without Merge
+
+* first item in list
+java
+python
